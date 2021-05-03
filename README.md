@@ -53,6 +53,6 @@ I have been in Tech Industry for almost two years since I finished my degree in 
 
 ## Contact me
 
-- Email: [amirrullukmanhaziq@gmail.com]::https://amirrullukmanhaziq@gmail.com
-- [Github]:https://www.github.com/arlharis
-- [LinkedIn]::https://www.linkedin.com/in/arlharis/
+- Email: amirrullukmanhaziq@gmail.com
+- [Github](https://www.github.com/arlharis)
+- [LinkedIn](https://www.linkedin.com/in/arlharis/)
