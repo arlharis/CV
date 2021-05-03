@@ -1,6 +1,6 @@
 # Lukman Imran
 
-I have been in Tech Industry for almost two years since I finished my degree in Computer Science with major in Multimedia Computing. Over a year in this industry, I already involved in several web development projects and design UI for web application. I started my career as Junior Software Engineer at [Pandan Digital](https://www.pandan.digital) for one years and eight months since August 2019 and has been promoted to be the Software Engineer II since last 3 months. 
+I have been in the Tech Industry for almost two years since I finished my degree in Computer Science with a major in Multimedia Computing. Over a year in this industry, I already have been involved in several web development projects and design UI for web application. I started my career as Junior Software Engineer at [Pandan Digital](https://www.pandan.digital) for one years and eight months since August 2019 and has been promoted to be the Software Engineer II since the last 3 months.
 
 ## Web development experience
 
