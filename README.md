@@ -1,22 +1,22 @@
 # Lukman Imran
 
-I have been in Tech Industry for almost two years since I finished my degree in Computer Science with major in Multimedia Computing. Over a year in this industry, I already involved in several web development projects and design UI for web application. I started my career as Junior Software Engineer at [Pandan Digital](www.pandan.digital) for one years and eight months since August 2019 and has been promoted to be the Software Engineer II since last 3 months. 
+I have been in Tech Industry for almost two years since I finished my degree in Computer Science with major in Multimedia Computing. Over a year in this industry, I already involved in several web development projects and design UI for web application. I started my career as Junior Software Engineer at [Pandan Digital](https://www.pandan.digital) for one years and eight months since August 2019 and has been promoted to be the Software Engineer II since last 3 months. 
 
 ## Web development experience
 
-[AliveInvite](www.aliveinvite.com)
+[AliveInvite](https://www.aliveinvite.com)
 1. Involve in maintaining website
 2. Create and update features based on client requirement
 
-[Robin HR Platform](www.getrobin.app)
+[Robin HR Platform](https://www.getrobin.app)
 1. Design UI for the web app
 2. Involve in development team to create the web app
 
-[InnovateBorneo](www.innovateborneo.com)
+[InnovateBorneo](https://www.innovateborneo.com)
 1. Develop the website
 2. Setup server and domain
 
-[Empower](www.empower.pandan.dev)
+[Empower](https://www.empower.pandan.dev)
 1. Design UI for the web app
 2. Involve in development team as front-end developer
 
