@@ -39,7 +39,8 @@ I have been in the Tech Industry for almost two years since I finished my degree
 **Bachelor of Computer Science (Hons) in Multimedia Computing**
 *2015 - 2019*
 
-**Matriculation College**
+### Matriculation College
+**Module II**
 *2014 -2015*
 
 ## Interest
