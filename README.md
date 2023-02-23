@@ -5,22 +5,22 @@ Hi there!
 ## Professional Experiences
 [Changi Travel Services Pte Ltd](https://www.linkedin.com/company/changitravelservices/mycompany/)
 #### Web Developer
-##### Feb 2023 - Present | Full-Time
-##### Singapore
+Feb 2023 - Present | Full-Time
+Singapore
 
 [Novatis Resources Sdn Bhd](https://www.novatis.com.my/novatis/)
 #### Web Developer
-##### Feb 2023 - Present | Part-Time
-##### Remote
+Feb 2023 - Present | Part-Time
+Remote
 
 #### System Engineer
-##### Nov 2021 - Jan 2023 | Full-Time
-##### Sabah, Malaysia
+Nov 2021 - Jan 2023 | Full-Time
+Sabah, Malaysia
 
 [Elevate Academy of Technology](https://www.elevateacademy.my/)
 #### Software Engineer
-##### Aug 2019 - Oct 2021 | Full-Time
-##### Sabah, Malaysia
+Aug 2019 - Oct 2021 | Full-Time
+Sabah, Malaysia
 
 ## Web Application Development Projects
 
